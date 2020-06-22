@@ -1,0 +1,9 @@
+{
+	"files.exclude": {
+		"C:/Users/yugte/OneDrive/Documents/Repositories/BattleTank/BattleTank/.vs": true,
+		"C:/Users/yugte/OneDrive/Documents/Repositories/BattleTank/BattleTank/.vscode": true,
+		"C:/Users/yugte/OneDrive/Documents/Repositories/BattleTank/BattleTank/Content": true,
+		"C:/Users/yugte/OneDrive/Documents/Repositories/BattleTank/BattleTank/Intermediate": true,
+		"C:/Users/yugte/OneDrive/Documents/Repositories/BattleTank/BattleTank/Saved": true
+	}
+}
