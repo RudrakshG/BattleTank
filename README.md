@@ -5,3 +5,4 @@ An Open-World Head-to-Head Tank Battle Game in Unreal Engine 4.
 * BT02 Battle Tank Overview
 * BT03 Game Development Document (GDD)
 * BT04 Setting Up a GitHub Repository
+* BT05 Creating and Deleting Landscapes
